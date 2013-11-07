@@ -250,6 +250,7 @@ organizations:
     - KoelnAPI
     - okfirl
     - openstate
+    - hackity
 
 # global settings
 title: "Make government better, together."
